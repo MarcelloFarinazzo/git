@@ -1,3 +1,5 @@
+/* Funcionamento da função 'foreach()*/
+
 const manufactors = ['Audi', 'BMW', 'Bugatti', 'Chevrolet', 'Ferrari', 'Lamborguini']
 
 const callbackfunc = function(element, index, array) { return console.log(index, element)}
